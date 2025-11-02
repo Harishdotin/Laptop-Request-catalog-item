@@ -2,10 +2,10 @@ Laptop Request Catalog Item – ServiceNow
 
 Team Members:
 My Team Members :
-Harish K S
-Ashik Bebin K
-Harinath V S
-Jenish K
+Harish K S.
+Ashik Bebin K.
+Harinath V S.
+Jenish K.
 
 This project showcases a complete ServiceNow Catalog Item that automates laptop requests within an organization. The system collects request details, routes them for approval, and helps the IT team manage fulfillment efficiently.
 
