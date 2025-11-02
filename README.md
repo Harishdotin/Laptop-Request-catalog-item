@@ -1,7 +1,7 @@
 Laptop Request Catalog Item – ServiceNow
 
 Team Members:
-MY Team Members :
+My Team Members :
 Harish K S
 Ashik Bebin K
 Harinath V S
